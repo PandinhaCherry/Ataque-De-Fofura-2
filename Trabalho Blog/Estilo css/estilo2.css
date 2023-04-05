@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Dancing+Script:wght@700&display=swap');
+
+
+p{font-family: 'Dancing Script', cursive;}
+
+h2{font-family: 'Sacramento', cursive;}
+
+p{
+    margin: auto;
+    border-radius: 10px;
+    padding: 15px;
+    float: left;
+    margin-left: 50px;}
+nav{width: 1400px;}
+body{width: 1500px;
+    background-image:linear-gradient(to right,#F8C4C8,#C28DB8,#EC6383) ;
+    background-image: url(../Imagens/fundoestrelaspasteisuniverso.jpeg);}
+.conteudo{width:500px;}
+
+.curiosidade{width:500px;
+margin-top: 200px;}
+main{columns:2;
+margin-left: 50px;}
+
+
+fieldset>menu{width: 1500px;}
+fieldset{width: 400px;}
+img{margin: auto;}
+
+li{font-size: 60px;
+    font-family: 'Sacramento', cursive;}
+
+a{font-size: 60px;
+    font-family: 'Sacramento', cursive;}
+
+
+fieldset{border:5px dotted #E6DFDF}
+
+
+
